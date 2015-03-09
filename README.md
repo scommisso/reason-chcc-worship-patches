@@ -8,8 +8,8 @@ Propellerhead Reason patches I use for live worship at Coast Hills Community Chu
 [Scarlett 2i4 USB Audio Interface](http://us.focusrite.com/usb-audio-interfaces/scarlett-2i4)
 
 ### Requirements ###
-[Reason 7 or 8](https://www.propellerheads.se/reason) 
-Reason Rack Extensions 
+[Reason 7 or 8](https://www.propellerheads.se/reason)  
+Reason Rack Extensions
 - [Radical Piano](https://shop.propellerheads.se/product/radical-piano/) 
 - [Rotor](https://shop.propellerheads.se/product/rotor/)
 
