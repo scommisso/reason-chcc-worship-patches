@@ -18,14 +18,14 @@ Reason Rack Extensions
 **_All the Poor and Powerless_**  
 _by David Leonard and Leslie Jordan_  
 _CCLI #5881130_  
-( [Patch](patches/All%20the%20Poor%20and%20Powerless.cmb) )
+( [Patch](Patches/All%20the%20Poor%20and%20Powerless.cmb) )
 
 **_Always_**  
 _by Jason Ingram and Kristian Stanfill_  
 _CCLI #5881037_  
-( [Patch](patches/Always.cmb) | [Live](https://vimeo.com/116045394#t=4m53s) )
+( [Patch](Patches/Always.cmb) | [Live](https://vimeo.com/116045394#t=4m53s) )
 
 **_Oceans (Where Feet May Fail)_**  
 _by Joel Houston, Matt Crocker and Salomon Ligthelm_  
 _CCLI #6428767_  
-( [Patch](patches/Oceans.cmb) | [Live](https://vimeo.com/116045394#t=68m50s) )
+( [Patch](Patches/Oceans.cmb) | [Live](https://vimeo.com/116045394#t=68m50s) )
