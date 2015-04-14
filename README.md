@@ -1,5 +1,5 @@
 # reason-chcc-worship-patches
-Propellerhead Reason patches I use for live worship at [Coast Hills Community Church](http://www.coasthillschurch.org/). Each patch is built as a combinator instrument.
+[Propellerhead Reason](https://www.propellerheads.se/reason)   patches I use for live worship at [Coast Hills Community Church](http://www.coasthillschurch.org/). Each song patch is built as a combinator instrument. An [example set of tracks](Patches/Example%20Set.reason) is provided to demonstrate how I set up [Reason](https://www.propellerheads.se/reason)   for live worship.
 
 ### My Gear ###
 [Apple MacBook Pro (late 2013)](http://www.engadget.com/products/apple/macbook-pro/15-inch-with-retina-display/late-2013/)  
@@ -65,6 +65,11 @@ _by Matt Redman, Matt Maher, Jesse Reeves and Tim Wanstall_
 _CCLI #5925649_  
 ( [Patch](Patches/Here%20For%20You.cmb) | [Live](https://vimeo.com/124833360#t=30m1s) )
 
+**_Here's My Heart_**  
+_by Chris Tomlin, Jason Ingram and Louie Giglio_  
+_CCLI #6517898_  
+( [Patch](Patches/Here%27s%20My%20Heart.cmb) | [Live](https://vimeo.com/121646335#t=5m56s) )
+
 **_Holy Spirit_**  
 _by Bryan and Katie Torwalt_  
 _CCLI #6087919_  
@@ -85,17 +90,17 @@ _by Hannah and Paul McClure, and Kalley Heiligenthal_
 _CCLI #7030068_  
 ( [Patch](Patches/Jesus%20We%20Love%20You.cmb) | [Live](https://vimeo.com/119742124#t=18m36s) )
 
-**_Lay Me Down_**
+**_Lay Me Down_**  
 _by Chris Tomlin, Matt Redman, Jason Ingram and Jonas Myrin_  
 _CCLI #5925649_  
-( [Patch](Patches/Lay%20Me%20Down-F.cmb) | [Live](https://vimeo.com/124833360#t=3m54s) )
+( [Patch-F](Patches/Lay%20Me%20Down-F.cmb) | [Patch-B](Patches/Lay%20Me%20Down-B.cmb) | [Live](https://vimeo.com/124833360#t=3m54s) )
 
-**_Let It Rain_**
+**_Let It Rain_**  
 _by Michael Farren_  
 _CCLI #3591817_  
-( [Patch](Patches/Let%20It%20Rain.cmb) )
+( [Patch](Patches/Let%20It%20Rain.cmb) | [Live](https://vimeo.com/121646335#t=14m33s) )
 
-**_Nothing Is Impossible_**
+**_Nothing Is Impossible_**  
 _by Joth Hunt_  
 _CCLI #5199808_  
 ( [Patch](Patches/Nothing%20Is%20Impossible.cmb) )
@@ -118,7 +123,7 @@ _CCLI #5677416_
 **_Shepherd_**  
 _by Amanda Cook_  
 _CCLI #7003305_  
-( [Patch](Patches/Shepherd.cmb) | [Live](https://vimeo.com/102268128#t=11m30s) )
+( [Patch](Patches/Shepherd.cmb) | [Track](Patches/Shepherd%20Track.reason) | [Live](https://vimeo.com/102268128#t=11m30s) )
 
 **_Sing, Sing, Sing_**  
 _by Chris Tomlin, Daniel Carson, Jesse Reeves, Matt Gilder and Travis Nunn_  
@@ -134,10 +139,29 @@ _CCLI #6058450_
 _by Justin Hoeppner_  
 ( [Patch](Patches/Spirit%20Would%20You%20Come.cmb) )
 
+**_The Everlasting_**  
+_by Fellowship Church_  
+_CCLI #6076023_  
+( [Patch](Patches/The%20Everlasting.cmb) | [Live](https://vimeo.com/101569958#t=11m33s) )
+
 **_This Is Amazing Grace_**  
 _by Jeremy Riddle, Josh Farro and Phil Wickham_  
 _CCLI #6333821_  
 ( [Patch](Patches/This%20Is%20Amazing%20Grace.cmb) | [Live](https://vimeo.com/114038211#t=5m0s) )
+
+**_When I Survey_**  
+_by Isaac Watts and Tim Hughes_  
+( [Patch](Patches/When%20I%20Survey.cmb) )
+
+**_You Never Let Go_**  
+_by Matt and Beth Redman_  
+_CCLI #4674166_  
+( [Patch](Patches/You%20Never%20Let%20Go.cmb) | [Live](https://vimeo.com/121646335#t=0m4s) )
+
+**_You Won't Relent_**  
+_by Misty Edwards, David Brymer and Cassandra Campbell_  
+_CCLI #5370823_  
+( [Patch](Patches/You%20Won%27t%20Relent.cmb) )
 
 **_Your Glory / Nothing But the Blood_**  
 _by Leslie Jordan and Robert Lowry_  
