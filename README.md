@@ -177,6 +177,11 @@ _by Fellowship Church_
 _CCLI #6076023_  
 ( [Patch](../../raw/master/Patches/The%20Everlasting.cmb) | [Video](https://vimeo.com/101569958#t=11m33s) )
 
+**_This I Believe_**  
+_by Ben Fielding and Matt Crocker_  
+_CCLI #7018338_  
+( [Patch](../../raw/master/Patches/This%20I%20Believe.cmb) | [Video](https://vimeo.com/139906002#t=6m42s) | [Audio](https://nebula.phx3.secureserver.net/bf5f40960aca21941a81a4dc7f730138?AccessKeyId=1E541C9AF9C95FD1AA1B&disposition=0&alloworigin=1) )
+
 **_This Is Amazing Grace_**  
 _by Jeremy Riddle, Josh Farro and Phil Wickham_  
 _CCLI #6333821_  
