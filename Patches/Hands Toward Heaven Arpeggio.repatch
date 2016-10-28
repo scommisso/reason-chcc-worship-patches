@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Dual Arpeggio
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="se.propellerheads.Arpeggio"  deviceVersion="1.0.1f1" >
+        <Object name="custom_properties" >
+            <Value property="Arpeggio On 1"  type="number" >
+                1
+            </Value>
+            <Value property="Low Key 1"  type="number" >
+                0
+            </Value>
+            <Value property="High Key 1"  type="number" >
+                127
+            </Value>
+            <Value property="Rate 1"  type="number" >
+                15
+            </Value>
+            <Value property="Octaves 1"  type="number" >
+                0
+            </Value>
+            <Value property="Direction 1"  type="number" >
+                0
+            </Value>
+            <Value property="Repeat 1"  type="number" >
+                0
+            </Value>
+            <Value property="Arp Steps On 1"  type="number" >
+                1
+            </Value>
+            <Value property="Arp Steps 1"  type="number" >
+                4
+            </Value>
+            <Value property="Pattern On 1"  type="number" >
+                1
+            </Value>
+            <Value property="Velocity On 1"  type="number" >
+                1
+            </Value>
+            <Value property="Shift Step 1"  type="number" >
+                16
+            </Value>
+            <Value property="Transpose 1"  type="number" >
+                36
+            </Value>
+            <Value property="Gate Length 1"  type="number" >
+                0.5
+            </Value>
+            <Value property="Arpeggio On 2"  type="number" >
+                1
+            </Value>
+            <Value property="Low Key 2"  type="number" >
+                0
+            </Value>
+            <Value property="High Key 2"  type="number" >
+                127
+            </Value>
+            <Value property="Rate 2"  type="number" >
+                15
+            </Value>
+            <Value property="Octaves 2"  type="number" >
+                0
+            </Value>
+            <Value property="Direction 2"  type="number" >
+                0
+            </Value>
+            <Value property="Repeat 2"  type="number" >
+                0
+            </Value>
+            <Value property="Arp Steps On 2"  type="number" >
+                1
+            </Value>
+            <Value property="Arp Steps 2"  type="number" >
+                8
+            </Value>
+            <Value property="Pattern On 2"  type="number" >
+                1
+            </Value>
+            <Value property="Velocity On 2"  type="number" >
+                1
+            </Value>
+            <Value property="Shift Step 2"  type="number" >
+                16
+            </Value>
+            <Value property="Transpose 2"  type="number" >
+                24
+            </Value>
+            <Value property="Gate Length 2"  type="number" >
+                0.5
+            </Value>
+            <Value property="NoteLane1"  type="string" >
+                04010202010101010101010101010101010101010101010101010101010101010103010101010101010101010101010101010101010101010101010101010101
+            </Value>
+            <Value property="VelLane1"  type="string" >
+                1313212B474742423939393939393939
+            </Value>
+            <Value property="NoteLane2"  type="string" >
+                03010103030103030101010101010101010101010101010101010101010101010101010101030101010101010101010103010101010101010101010101010101
+            </Value>
+            <Value property="VelLane2"  type="string" >
+                5A1D1D71631D635A2B30303030475547
+            </Value>
+            <Value property="Hold"  type="number" >
+                0
+            </Value>
+            <Value property="On"  type="number" >
+                1
+            </Value>
+        </Object>
+    </Properties>
+</JukeboxPatch>
