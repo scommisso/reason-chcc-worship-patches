@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        Radical Keys
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="se.propellerheads.RadicalKeys"  deviceVersion="1.0" >
+        <Object name="custom_properties" >
+            <Value property="Character"  type="number" >
+                22
+            </Value>
+            <Value property="Instrument Blend"  type="number" >
+                0.5
+            </Value>
+            <Value property="Master Volume"  type="number" >
+                0.5
+            </Value>
+            <Value property="Tune"  type="number" >
+                0.5
+            </Value>
+            <Value property="Tune Drift"  type="number" >
+                0
+            </Value>
+            <Value property="Vel Resp Curve"  type="number" >
+                0.5
+            </Value>
+            <Value property="Vel Resp Low"  type="number" >
+                0.3
+            </Value>
+            <Value property="Vel Resp High"  type="number" >
+                0.5
+            </Value>
+            <Value property="Symp Res Level"  type="number" >
+                0.7187
+            </Value>
+            <Value property="Symp Res Release"  type="number" >
+                0.7343
+            </Value>
+            <Value property="Env Attack"  type="number" >
+                0
+            </Value>
+            <Value property="Env Decay Curve"  type="number" >
+                0.5
+            </Value>
+            <Value property="Env Release"  type="number" >
+                0.5
+            </Value>
+            <Value property="Key Down Level"  type="number" >
+                0.4219
+            </Value>
+            <Value property="Key Up Level"  type="number" >
+                0.0938001
+            </Value>
+            <Value property="Pedal Level"  type="number" >
+                0.0782001
+            </Value>
+            <Value property="Tremolo OnOff"  type="number" >
+                0
+            </Value>
+            <Value property="Tremolo Type"  type="number" >
+                0
+            </Value>
+            <Value property="Tremolo Depth"  type="number" >
+                0.5
+            </Value>
+            <Value property="Tremolo Stereo Width"  type="number" >
+                0
+            </Value>
+            <Value property="Tremolo Speed"  type="number" >
+                0.6093
+            </Value>
+            <Value property="LFORateDummy"  type="number" >
+                9
+            </Value>
+            <Value property="Tremolo Sync"  type="number" >
+                0
+            </Value>
+            <Value property="Comp OnOff"  type="number" >
+                0
+            </Value>
+            <Value property="Comp Amount"  type="number" >
+                0.3
+            </Value>
+            <Value property="Comp Fast"  type="number" >
+                0
+            </Value>
+            <Value property="Overdrive OnOff"  type="number" >
+                0
+            </Value>
+            <Value property="Overdrive Drive"  type="number" >
+                0.5626
+            </Value>
+            <Value property="Overdrive Presence"  type="number" >
+                0.7968
+            </Value>
+            <Value property="Overdrive Type"  type="number" >
+                0
+            </Value>
+            <Value property="EQ OnOff"  type="number" >
+                0
+            </Value>
+            <Value property="EQ Lo Gain"  type="number" >
+                0.4219
+            </Value>
+            <Value property="EQ Mid Gain"  type="number" >
+                0.5937
+            </Value>
+            <Value property="EQ Hi Gain"  type="number" >
+                0.5937
+            </Value>
+            <Value property="EQ Pre Overdrive"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser OnOff"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser Rate"  type="number" >
+                0.35
+            </Value>
+            <Value property="Phaser Depth"  type="number" >
+                0.8
+            </Value>
+            <Value property="Phaser Color"  type="number" >
+                0
+            </Value>
+            <Value property="Phaser Stereo"  type="number" >
+                0
+            </Value>
+            <Value property="Chorus OnOff"  type="number" >
+                1
+            </Value>
+            <Value property="Chorus Intensity"  type="number" >
+                0.5
+            </Value>
+            <Value property="Chorus DryWet"  type="number" >
+                0.4376
+            </Value>
+            <Value property="Chorus Stereo"  type="number" >
+                1
+            </Value>
+            <Value property="Ambience OnOff"  type="number" >
+                1
+            </Value>
+            <Value property="Ambience Level"  type="number" >
+                0.7375
+            </Value>
+            <Value property="Ambience Type"  type="number" >
+                2
+            </Value>
+            <Value property="mic1"  type="number" >
+                7
+            </Value>
+            <Value property="mic2"  type="number" >
+                7
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>
